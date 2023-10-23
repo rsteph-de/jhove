@@ -14,7 +14,7 @@
       <dependency>
         <groupId>org.openpreservation.jhove.modules</groupId>
         <artifactId>xml-hul</artifactId>
-        <version>1.5.3</version>
+        <version>1.5.3__jakarta</version>
       </dependency>
   </dependencies>
 

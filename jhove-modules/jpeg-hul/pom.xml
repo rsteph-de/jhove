@@ -14,7 +14,7 @@
       <dependency>
         <groupId>org.openpreservation.jhove.modules</groupId>
         <artifactId>tiff-hul</artifactId>
-        <version>1.9.4</version>
+        <version>1.9.4__jakarta</version>
       </dependency>
   </dependencies>
 

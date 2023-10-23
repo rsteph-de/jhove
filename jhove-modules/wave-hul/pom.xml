@@ -14,7 +14,7 @@
       <dependency>
         <groupId>org.openpreservation.jhove.modules</groupId>
         <artifactId>aiff-hul</artifactId>
-        <version>1.6.2</version>
+        <version>1.6.2__jakarta</version>
       </dependency>
   </dependencies>
 
