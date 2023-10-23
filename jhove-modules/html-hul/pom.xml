@@ -3,10 +3,10 @@
   <parent>
     <groupId>org.openpreservation.jhove.modules</groupId>
     <artifactId>jhove-modules</artifactId>
-    <version>1.28__jakarta-SNAPSHOT</version>
+    <version>1.28__jakarta</version>
   </parent>
   <artifactId>html-hul</artifactId>
-  <version>1.4.3</version>
+  <version>1.4.3__jakarta</version>
   <name>JHOVE HTML Module HUL</name>
   <description>HTML module developed by Harvard University Library</description>
 
