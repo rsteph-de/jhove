@@ -5,7 +5,7 @@
   <parent>
     <groupId>org.openpreservation.jhove</groupId>
     <artifactId>jhove</artifactId>
-    <version>1.28__jakarta</version>
+    <version>1.28__jakarta.1</version>
   </parent>
 
   <artifactId>jhove-installer</artifactId>
@@ -168,57 +168,57 @@
     <dependency>
       <groupId>org.openpreservation.jhove.modules</groupId>
       <artifactId>aiff-hul</artifactId>
-      <version>1.6.2__jakarta</version>
+      <version>1.6.2__jakarta.1</version>
     </dependency>
     <dependency>
       <groupId>org.openpreservation.jhove.modules</groupId>
       <artifactId>ascii-hul</artifactId>
-      <version>1.4.2__jakarta</version>
+      <version>1.4.2__jakarta.1</version>
     </dependency>
     <dependency>
       <groupId>org.openpreservation.jhove.modules</groupId>
       <artifactId>gif-hul</artifactId>
-      <version>1.4.3__jakarta</version>
+      <version>1.4.3__jakarta.1</version>
     </dependency>
     <dependency>
       <groupId>org.openpreservation.jhove.modules</groupId>
       <artifactId>html-hul</artifactId>
-      <version>1.4.3__jakarta</version>
+      <version>1.4.3__jakarta.1</version>
     </dependency>
     <dependency>
       <groupId>org.openpreservation.jhove.modules</groupId>
       <artifactId>jpeg2000-hul</artifactId>
-      <version>1.4.4__jakarta</version>
+      <version>1.4.4__jakarta.1</version>
     </dependency>
     <dependency>
       <groupId>org.openpreservation.jhove.modules</groupId>
       <artifactId>jpeg-hul</artifactId>
-      <version>1.5.4__jakarta</version>
+      <version>1.5.4__jakarta.1</version>
     </dependency>
     <dependency>
       <groupId>org.openpreservation.jhove.modules</groupId>
       <artifactId>pdf-hul</artifactId>
-      <version>1.12.4__jakarta</version>
+      <version>1.12.4__jakarta.1</version>
     </dependency>
     <dependency>
       <groupId>org.openpreservation.jhove.modules</groupId>
       <artifactId>tiff-hul</artifactId>
-      <version>1.9.4__jakarta</version>
+      <version>1.9.4__jakarta.1</version>
     </dependency>
     <dependency>
       <groupId>org.openpreservation.jhove.modules</groupId>
       <artifactId>utf8-hul</artifactId>
-      <version>1.7.3__jakarta</version>
+      <version>1.7.3__jakarta.1</version>
     </dependency>
     <dependency>
       <groupId>org.openpreservation.jhove.modules</groupId>
       <artifactId>wave-hul</artifactId>
-      <version>1.8.2__jakarta</version>
+      <version>1.8.2__jakarta.1</version>
     </dependency>
     <dependency>
       <groupId>org.openpreservation.jhove.modules</groupId>
       <artifactId>xml-hul</artifactId>
-      <version>1.5.3__jakarta</version>
+      <version>1.5.3__jakarta.1</version>
     </dependency>
   </dependencies>
 

@@ -3,10 +3,10 @@
   <parent>
     <groupId>org.openpreservation.jhove.modules</groupId>
     <artifactId>jhove-modules</artifactId>
-    <version>1.28__jakarta</version>
+    <version>1.28__jakarta.1</version>
   </parent>
   <artifactId>aiff-hul</artifactId>
-  <version>1.6.2__jakarta</version>
+  <version>1.6.2__jakarta.1</version>
   <name>JHOVE AIFF Module HUL</name>
   <description>AIFF module developed by Harvard University Library</description>
 </project>
